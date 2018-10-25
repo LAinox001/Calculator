@@ -12,6 +12,6 @@ void main(){
     scanf("%d", &a);
     printf("\n");
     scanf("%d", &b);
-    printf(" %d + %d = %d", a, b, addition(a, b));
+    printf(" %d et %d vaut %d", a, b, addition(a, b));
     return;
 }
